@@ -10,5 +10,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.coloscheme.catppuccin" },
+  { import = "astrocommunity.markdown-and-latex.vimtex"},
+  { import = "astrocommunity.code-runner.compiler-nvim"},
   -- import/override with your plugins folder
 }
